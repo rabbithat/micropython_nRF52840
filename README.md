@@ -17,4 +17,4 @@ With this as a starting point, you can easily extend the code to do whatever you
 Note: you will need to fix the micropython machine module as explained here by dhylands: https://forum.micropython.org/viewtopic.php?f=12&t=5372#p30947
 to get the code to work.
 
-
+Of course, any comments on how to write better code are always appreciated.
