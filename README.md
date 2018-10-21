@@ -14,7 +14,7 @@ Presently the transmitter is sending packets faster than one a second, but for d
 
 With this as a starting point, you can easily extend the code to do whatever you want.
 
-Note: you will need to fix the micropython machine module as explained here by dhylands: viewtopic.php?f=12&t=5377
+Note: you will need to fix the micropython machine module as explained here by dhylands: https://forum.micropython.org/viewtopic.php?f=12&t=5372#p30947
 to get the code to work.
 
 
