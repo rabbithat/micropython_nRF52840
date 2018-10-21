@@ -10,7 +10,7 @@ Load the code into a file named main.py. I used ampy to put the file onto the bo
 start()
 at the ">>>" REPL prompt to execute the code. You could, of course, have it start itself, but then I found it difficult to regain control over the board if I did it that way (e.g. to upload a new program). This way you regain control by just resetting the board.
 
-Presently the transmitter is sending packets faster than one a second (viewtopic.php?f=12&t=5417), but for demo purposes that doesn't matter. The receiver has no problem keeping up with it.
+Presently the transmitter is sending packets faster than one a second, but for demo purposes that doesn't matter. The receiver has no problem keeping up with it.
 
 With this as a starting point, you can easily extend the code to do whatever you want.
 
